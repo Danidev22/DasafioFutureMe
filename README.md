@@ -1,5 +1,4 @@
-# Título do Projeto
-Entrevista de Código / FutureMe
+# Entrevista de Código / FutureMe
 
 ## Descrição
 Desafio: Implementar a função fibonacciWithEmojis.
